@@ -42,21 +42,21 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
-            id="2"
+            id="5"
             title="3 in 1 Business Man Backpack with USB "
             price={49.99}
             rating={5}
             image="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg?fbclid=IwAR3GhQdf6gaatreRRJDL-6aBW-c083epT9_Emi8nPMwISVP4FZlmL4rATcU"
           />
           <Product
-            id="12333"
+            id="6"
             title="3 in 1 Business Man Backpack with USB "
             price={49.99}
             rating={5}
             image="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg?fbclid=IwAR3GhQdf6gaatreRRJDL-6aBW-c083epT9_Emi8nPMwISVP4FZlmL4rATcU"
           />
           <Product
-            id="12333"
+            id="7"
             title="3 in 1 Business Man Backpack with USB "
             price={49.99}
             rating={5}
@@ -65,7 +65,7 @@ function Home() {
         </div>
         <div className="home__row">
           <Product
-            id="12333"
+            id="8"
             title="3 in 1 Business Man Backpack with USB "
             price={49.99}
             rating={5}
